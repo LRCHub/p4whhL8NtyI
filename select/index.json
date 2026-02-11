@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Say",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-11T10:22:30.721278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/01_Never_Say_Never_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/02_Say_So_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/03_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All My Friends Say",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/04_All_My_Friends_Say_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All My Friends Say (Album Version)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/05_All_My_Friends_Say_(Album_Version)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Say I Ain't Country",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/06_Can't_Say_I_Ain't_Country_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can’t Say I Ain’t Country",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/07_Can’t_Say_I_Ain’t_Country_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Say Goodnight",
+      "artist": "CB30",
+      "has_synced": false,
+      "path": "select/08_Don't_Say_Goodnight_CB30.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/09_Hard_To_Say_I'm_Sorry_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/10_How_Can_I_Help_You_Say_Goodbye_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/11_How_Can_I_Help_You_Say_Goodbye_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How to Say Goodbye",
+      "artist": "Dylan Marlowe",
+      "has_synced": false,
+      "path": "select/12_How_to_Say_Goodbye_Dylan_Marlowe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Not Strong Enough to Say No",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/13_I'm_Not_Strong_Enough_to_Say_No_BlackHawk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Never Easy To Say Goodbye",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/14_It's_Never_Easy_To_Say_Goodbye_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Say When",
+      "artist": "Walker Montgomery",
+      "has_synced": false,
+      "path": "select/15_Just_Say_When_Walker_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (feat. Tim McGraw)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/16_Just_to_Hear_You_Say_That_You_Love_Me_(feat._Tim_McGraw)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (With Tim McGraw   Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/17_Just_to_Hear_You_Say_That_You_Love_Me_(With_Tim_McGraw_Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kids Say the Darndest Things",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/18_Kids_Say_the_Darndest_Things_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Kids Say The Darndest Things (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/19_Kids_Say_The_Darndest_Things_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Say",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_Say_keshi.txt"
+    }
+  ]
+}
